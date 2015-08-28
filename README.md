@@ -14,7 +14,7 @@ sudo jx install -g download-cli
 
 for windows
 ```
-jx install -g download-clie
+jx install -g download-cli
 ```
 
 ##### 3- Download `jxcore-cordova` binary into your Cordova/Phonegap project
